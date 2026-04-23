@@ -63,33 +63,6 @@ I don't build for attention — I build to leave proof. Every repo here is a ste
 
 ## `> stack --list`
 
-<div align="center">
-
-**Languages & Runtimes**
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,ts,js,java,cpp" alt="languages"/>
-
-**Backend & APIs**
-
-<img src="https://skillicons.dev/icons?i=dotnet,fastapi,nodejs,express" alt="backend"/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind,nextjs,html,css" alt="frontend"/>
-
-**Data & Infra**
-
-<img src="https://skillicons.dev/icons?i=postgres,redis,mysql,docker,kubernetes,nginx,linux,bash" alt="data"/>
-
-**DevOps / MLOps / Cloud**
-
-<img src="https://skillicons.dev/icons?i=githubactions,docker,azure,aws,git,github" alt="devops"/>
-
-**ML & Tools**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,vscode,figma,postman" alt="ml"/>
-
-</div>
 
 <br/>
 
@@ -118,14 +91,6 @@ I don't build for attention — I build to leave proof. Every repo here is a ste
 
 ## `> now --active`
 
-| Project | What it is | Stack |
-|---------|-----------|-------|
-| **Qias** | AI corrosion monitoring for pipelines & energy infrastructure | Python · ML · Azure |
-| **CardShop-GCC** | Digital products marketplace (game cards, gift cards, vouchers) | .NET · React · Redis · Postgres |
-| **Qahwan ERP** | HR & operations modules for Gulf enterprises | FastAPI · Postgres · MinIO |
-| **SultanBuilds** | LinkedIn engineering series — Redis, .NET, postmortems | Writing · Systems |
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                          PHILOSOPHY                               -->
