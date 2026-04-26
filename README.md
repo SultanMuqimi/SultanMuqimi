@@ -57,45 +57,6 @@ I don't build for attention — I build to leave proof. Every repo here is a ste
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          TECH STACK                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## `> stack --list`
-
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          GITHUB STATS                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## `> github --stats`
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=SultanMuqimi&show_icons=true&count_private=true&hide_border=true&bg_color=0f172a&title_color=0ea5e9&icon_color=0ea5e9&text_color=e2e8f0&ring_color=0ea5e9" alt="stats"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SultanMuqimi&layout=compact&hide_border=true&bg_color=0f172a&title_color=0ea5e9&text_color=e2e8f0&langs_count=8" alt="top langs"/>
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com?user=SultanMuqimi&theme=tokyonight&hide_border=true&background=0f172a&stroke=0ea5e9&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9" alt="streak"/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SultanMuqimi&bg_color=0f172a&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          CURRENT FOCUS                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## `> now --active`
-
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          PHILOSOPHY                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## `> why`
 
 > Good engineering is quiet. The right system does its job so well you forget it's there — until it isn't.
