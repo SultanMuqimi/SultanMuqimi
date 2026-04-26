@@ -13,7 +13,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <a href="https://qias.tech">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=720&lines=Co-Founder+%26+CEO+%40+Qias;Shipping+production+systems+across+the+GCC;.NET+%E2%80%A2+Python+%E2%80%A2+DevOps+%E2%80%A2+MLOps;Building+AI+that+solves+real+industrial+problems" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=720&lines=+%26++%40+;Shipping+production+systems+across+the+GCC;.NET+%E2%80%A2+Python+%E2%80%A2+DevOps+%E2%80%A2+MLOps;Building+AI+that+solves+real+industrial+problems" alt="typing"/>
 </a>
 
 <br/>
