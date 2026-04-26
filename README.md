@@ -49,7 +49,6 @@ role:       Co-Founder & CEO @ Qias
 based_in:   Muscat, Oman 🇴🇲
 building:   AI-powered corrosion monitoring for GCC energy sector
 also:       Backend engineer · Freelance dev
-studying:   AI/ML · AZ-204 · Azure · AVEVA PI System
 mission:    Build things that matter. Be seen for the work.
 ```
 
