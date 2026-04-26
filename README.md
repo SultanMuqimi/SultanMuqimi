@@ -45,7 +45,7 @@
 
 ```yaml
 name:       Sultan Al-Muqaimi
-role:       Co-Founder & CEO @ Qias
+role:       DevOps Engineer
 based_in:   Muscat, Oman 🇴🇲
 building:   AI-powered corrosion monitoring for GCC energy sector
 also:       Backend engineer · Freelance dev
